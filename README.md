@@ -1,4 +1,0 @@
-myrepository
-============
-
-rhcloud
